@@ -1,0 +1,38 @@
+[
+  {
+    "id": "b072a198-0189-40af-bb22-20548054bdad",
+    "title": "iPhone 13 Pro",
+    "description": "Used iPhone 13 Pro 256GB in great condition, no scratches",
+    "price": 3500
+  },
+  {
+    "id": "8eb6efaf-afea-4606-90b6-5872efc22460",
+    "title": "Wooden Study Desk",
+    "description": "Solid wood study desk with two drawers, perfect for students",
+    "price": 450
+  },
+  {
+    "id": "a6bcaa87-a5f2-4fb9-b4c3-a465858f74cd",
+    "title": "Samsung 43 inch TV",
+    "description": "Samsung smart TV 43 inch, works perfectly, selling because of upgrade",
+    "price": 1800
+  },
+  {
+    "id": "25667abe-b2a1-48dd-9c58-a256f1905672",
+    "title": "Nike Air Force 1",
+    "description": "Brand new Nike Air Force 1 size 42, never worn, original box included",
+    "price": 320
+  },
+  {
+    "id": "8dde9727-d555-4959-8240-1715daa6c1f3",
+    "title": "HP Laptop 15",
+    "description": "HP laptop, Intel i5, 8GB RAM, 512GB SSD, bought in 2023",
+    "price": 2800
+  },
+  {
+    "id": "a146f4e4-2cd6-4bf5-983e-80d9ef0a43b8",
+    "title": "PlayStation 5",
+    "description": "PS5 disc edition with two controllers and 3 games included",
+    "price": 4200
+  }
+]
